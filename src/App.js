@@ -3,6 +3,7 @@ import "./css/Snooze.css";
 import "./css/Appointment.css";
 import "./css/LoginPage.css";
 import "./css/MyMeds.css";
+import { HashRouter } from 'react-router-dom';
 import Home from "./components/Homepage/Home";
 import AppointmentPage from "./components/AppointmentPage/AppointmentPage";
 import MyMedsPage from "./components/MyMedsPage/MyMeds";
@@ -49,7 +50,7 @@ function App() {
     //   });
   };
   return (
-    <Router>
+    <HashRouter>
       <div className="App">
         <Navbar />
         <Routes>
@@ -62,7 +63,7 @@ function App() {
           />
         </Routes>
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 
