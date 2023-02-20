@@ -62,7 +62,7 @@ const Footer = () => {
           </ul>
         </div>
         <div className="contact-info">
-          <h3>CONTACT US</h3>
+          <a href ='/contact'>CONTACT US</a>
           <ul className="contacts">
             <li className="contact">
               <FontAwesomeIcon icon={faHome} className="add" />
