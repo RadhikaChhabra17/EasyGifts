@@ -13,6 +13,7 @@ import Navbar from "./components/Homepage/Navbar";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { useState } from "react";
 import axios from "axios";
+import ContactForm from "./components/Contact";
 
 function App() {
   // const [userId,setUserId] = useState("");
@@ -50,7 +51,7 @@ function App() {
     //   });
   };
   return (
-    <HashRouter>
+    <Router>
       <div className="App">
         <Navbar />
         <Routes>
@@ -61,9 +62,10 @@ function App() {
             path="/auth"
             element={<LoginForm onRegister={onRegister} onLogin={onLogin} />}
           />
+          <Route path="/contact" element={<ContactForm />} />
         </Routes>
       </div>
-    </HashRouter>
+    </Router>
   );
 }
 
