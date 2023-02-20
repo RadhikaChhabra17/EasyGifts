@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EasyGifts/static/css/main.6a27162a.css",
-    "main.js": "/EasyGifts/static/js/main.b8cd7d45.js",
+    "main.js": "/EasyGifts/static/js/main.ddade553.js",
     "static/js/787.c4e7f8f9.chunk.js": "/EasyGifts/static/js/787.c4e7f8f9.chunk.js",
     "static/media/5556.jpg": "/EasyGifts/static/media/5556.4c9306ce0907c839831f.jpg",
     "static/media/SL-072620-33020-24.jpg": "/EasyGifts/static/media/SL-072620-33020-24.3aa1d9fe00b693ca319e.jpg",
@@ -12,11 +12,11 @@
     "static/media/logo.jpg": "/EasyGifts/static/media/logo.06ee72f6576bbc5cf3ed.jpg",
     "index.html": "/EasyGifts/index.html",
     "main.6a27162a.css.map": "/EasyGifts/static/css/main.6a27162a.css.map",
-    "main.b8cd7d45.js.map": "/EasyGifts/static/js/main.b8cd7d45.js.map",
+    "main.ddade553.js.map": "/EasyGifts/static/js/main.ddade553.js.map",
     "787.c4e7f8f9.chunk.js.map": "/EasyGifts/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a27162a.css",
-    "static/js/main.b8cd7d45.js"
+    "static/js/main.ddade553.js"
   ]
 }
