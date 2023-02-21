@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/EasyGifts/static/css/main.c34e1c51.css",
-    "main.js": "/EasyGifts/static/js/main.11d96f03.js",
+    "main.css": "/EasyGifts/static/css/main.a73549c8.css",
+    "main.js": "/EasyGifts/static/js/main.7ae3a2d4.js",
     "static/js/787.c4e7f8f9.chunk.js": "/EasyGifts/static/js/787.c4e7f8f9.chunk.js",
     "static/media/5556.jpg": "/EasyGifts/static/media/5556.4c9306ce0907c839831f.jpg",
-    "static/media/SL-072620-33020-24.jpg": "/EasyGifts/static/media/SL-072620-33020-24.3aa1d9fe00b693ca319e.jpg",
     "static/media/17973908.jpg": "/EasyGifts/static/media/17973908.f42ecb4bc8e4c4ed24be.jpg",
     "static/media/background.jpg": "/EasyGifts/static/media/background.f3a11b5a1230ce19c978.jpg",
     "static/media/SL-043021-42650-16.jpg": "/EasyGifts/static/media/SL-043021-42650-16.1d28a01805830fa7bf54.jpg",
     "static/media/rm222-mind-16.jpg": "/EasyGifts/static/media/rm222-mind-16.61dd12a2f4a162384f58.jpg",
     "static/media/logo.jpg": "/EasyGifts/static/media/logo.06ee72f6576bbc5cf3ed.jpg",
     "index.html": "/EasyGifts/index.html",
-    "main.c34e1c51.css.map": "/EasyGifts/static/css/main.c34e1c51.css.map",
-    "main.11d96f03.js.map": "/EasyGifts/static/js/main.11d96f03.js.map",
+    "main.a73549c8.css.map": "/EasyGifts/static/css/main.a73549c8.css.map",
+    "main.7ae3a2d4.js.map": "/EasyGifts/static/js/main.7ae3a2d4.js.map",
     "787.c4e7f8f9.chunk.js.map": "/EasyGifts/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c34e1c51.css",
-    "static/js/main.11d96f03.js"
+    "static/css/main.a73549c8.css",
+    "static/js/main.7ae3a2d4.js"
   ]
 }
